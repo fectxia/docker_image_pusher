@@ -1,2 +1,2 @@
 zookeeper
-nacos
+nacos/nacos-server
