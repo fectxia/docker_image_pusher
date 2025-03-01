@@ -1,3 +1,4 @@
 zookeeper
 nacos/nacos-server
 portainer/portainer-ce
+portainer/agent:2.27.1
