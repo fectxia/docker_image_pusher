@@ -1,2 +1,3 @@
 zookeeper
 nacos/nacos-server
+portainer/portainer-ce
